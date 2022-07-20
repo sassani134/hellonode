@@ -1,0 +1,10 @@
+{
+    "name": "hellonode",
+    "version": "0.0.1",
+    "description": "Une application NodeJS déployée sur heroku en passant par github et docker",
+    "main": "app.js",
+    "scripts": {},
+    "dependencies": {
+    "express": "^4.17.3"
+    }
+}
